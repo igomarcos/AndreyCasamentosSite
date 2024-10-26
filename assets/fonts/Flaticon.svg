@@ -12,7 +12,7 @@ Created by FontForge 20170731 at Mon Feb  3 09:43:16 2020
 <defs>
 <font id="Flaticon" horiz-adv-x="512" >
   <font-face 
-    font-family="Flaticon"
+    font-family:Poppins,"Roboto";="Flaticon"
     font-weight="400"
     font-stretch="normal"
     units-per-em="512"
