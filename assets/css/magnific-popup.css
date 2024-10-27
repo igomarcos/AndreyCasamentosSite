@@ -136,7 +136,7 @@ button::-moz-focus-inner {
   color: #FFF;
   font-style: normal;
   font-size: 28px;
-  font-family:Poppins,"Roboto";: Arial, Baskerville, monospace; }
+  font-family:Poppins,"Roboto";}
   .mfp-close:hover,
   .mfp-close:focus {
     opacity: 1; }

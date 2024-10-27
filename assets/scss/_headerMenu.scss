@@ -92,7 +92,12 @@
 	padding: 26px 20px;
 }
 
-
+@media (max-width: 767px) {
+    .logoandrey { /* Substitua '.logo' pela classe ou ID exato da logo */
+        width: 120px; /* Ajuste o tamanho conforme desejado */
+        height: auto; /* Mantém a proporção */
+    }
+}
 
 //! Mobile Menu
 .mobile_menu {

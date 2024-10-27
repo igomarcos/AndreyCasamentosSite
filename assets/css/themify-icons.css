@@ -1,5 +1,5 @@
 @font-face {
-	font-family:Poppins,"Roboto";: 'themify';
+	font-family:Poppins,"Roboto";;
 	src:url('../fonts/themify.eot?-fvbane');
 
 
@@ -12,7 +12,7 @@
 }
 
 [class^="ti-"], [class*=" ti-"] {
-	font-family:Poppins,"Roboto";: 'themify';
+	font-family:Poppins,"Roboto";;
 	speak: none;
 	font-style: normal;
 	font-weight: normal;
