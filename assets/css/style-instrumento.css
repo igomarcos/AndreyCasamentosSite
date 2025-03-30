@@ -1,17 +1,32 @@
-.card-top{
-    margin-bottom: 30px !important;
-}
+
 ul .content-instrumento{
     border: 0.5px solid #dadada;
     border-radius: 10px;
     box-shadow: 4px 5px 20px -8px rgba(105, 105, 105, 0.3);
-    padding: 5px;
-}
-ul .instrumento{
-    margin-bottom: 3px !important;
+    padding: 10px;
+    flex-wrap: wrap;
+    list-style-type: none;
+    text-align: center;
+    justify-content: space-between;
+    margin: 0 10px;
+    display: flex;
+    align-items: center;
+    gap: 5px;
 }
 
 .ou{
     margin-top: 10px;
     margin-bottom: 5px;
 }
+
+Standard{
+
+    margin-right: 5px; /* Espaçamento entre ícone e texto */
+    
+}
+
+.Instrumentos{
+    display: flex;
+    gap: 5px;
+}
+
